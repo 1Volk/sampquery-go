@@ -16,7 +16,6 @@ import (
 	"log"
 	"time"
 
-	"github.com/1Volk/samp-query-go"
 	"github.com/1Volk/sampquery-go"
 )
 
